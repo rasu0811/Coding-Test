@@ -1,0 +1,59 @@
+
+
+body{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ height: 100vh;
+ margin: 0;
+
+}
+.card{
+ border-radius: 5px;
+ background-color: grey;
+ padding: 40px  ;
+ width: 950px;
+ height: 450px;
+ position: relative;
+ justify-content:space-between;
+ align-items: center;
+ display: flex;
+}
+
+.card2{
+ background-color: aliceblue;
+ padding: 40px;
+ width: 400px;
+ height: 300px;
+ /* bottom: 10px;
+ right: 10px; */
+ text-align:left;
+ box-shadow: 0px 4px 8px rgba(0,0,0,0.6);
+ border-radius: 10px;
+ 
+}
+
+
+
+.btn{
+ padding: 10px 20px;
+ border-radius: 10px;
+ background-color: blue;
+ color: blanchedalmond;
+ margin: 0;
+}
+.register{
+   /* text-align: left; */
+   font-size: 20px;
+
+  font-weight: bold;
+}
+.button{
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: green;
+  color: blanchedalmond;
+  margin: 0;
+ }
+
+
